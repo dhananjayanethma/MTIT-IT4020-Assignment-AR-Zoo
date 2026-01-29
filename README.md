@@ -1,7 +1,5 @@
 # 🥽 Modern Topics in IT(IT4020)_Assignment_Marker-Based Augmented Reality Application(2025) - AR Zoo
 
----
-
 ## Project Overview
 
 This project involves the development of a **marker-based Augmented Reality (AR) mobile application** using **Unity** and the **Vuforia Engine**. The application detects predefined image markers and overlays **animated 3D models** aligned accurately with each marker.
