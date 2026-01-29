@@ -56,7 +56,7 @@ A **Zoo environment** was selected as the project theme. Each group member contr
 | Nanayakkara A.A.R. | Tiger (.glb) | Walking Animation |
 | Senadheera W.D.N.D. | Wolf Dog (.glb) | Walking Animation |
 | Perera M.Μ.Ρ. | Monster Cat (.glb) | Walking Animation |
-| Weedagamaarachchi K.S. | Dragon Horse (.glb) | Walking Animation & Sound |
+| Weedagamaarachchi K.S. | Dragon (.glb) | Walking Animation & Sound |
 | K.D.R. Manditha | Human (.glb) | Walking Animation |
 
 ---
