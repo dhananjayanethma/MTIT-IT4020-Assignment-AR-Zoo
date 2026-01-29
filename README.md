@@ -1,4 +1,4 @@
-# 🥽 Emojis: https://emoj.info/vrModern Topics in IT(IT4020)_Assignment_Marker-Based Augmented Reality Application(2025) - AR Zoo
+# 🥽 Modern Topics in IT(IT4020)_Assignment_Marker-Based Augmented Reality Application(2025) - AR Zoo
 
 ---
 
