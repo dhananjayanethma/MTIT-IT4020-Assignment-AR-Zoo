@@ -45,7 +45,7 @@ A **Zoo environment** was selected as the project theme. Each group member contr
 
 ---
 
-## Platform Support - **Android**
+## - Platform Support : **Android**
 
 ---
 
